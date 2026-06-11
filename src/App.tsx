@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <img src="./public/images/home.png" alt="" />
+      <img src="./public/images/home.png" />
     </>
   )
 }
